@@ -6,7 +6,7 @@ Prompts the user to send [App Requests](https://developers.facebook.com/docs/ref
 
 ```javascript
 plugin.FacebookAgent.prototype.appRequest = function(info, callback){}
-```
+```lkhjlk
 
 |Name|Type|Required|Description|
 |----|----|--------|-----------|
