@@ -17,7 +17,7 @@ Before using Facebook SDK Beta, you may need to integrate Facebook SDK Beta for 
 
 ###Core Methods
 
-|Name|Description|
+|Name|Description|khkjlhkl
 |----|-----------|
 |[getInstance](./get-instance.md)|Initialize the SDK, and return the instance of `plugin.FacebookAgent`. Required before doing anything else.|
 |[destroyInstance](./destroy-instance.md)|Destroy the instance of `plugin.FacebookAgent`.|
